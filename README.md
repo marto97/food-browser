@@ -18,7 +18,7 @@ A basic Android app written in Kotlin for searching and displaying food items us
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/food-browser-app.git`
+1. Clone the repository: `git clone https://github.com/marto97/food-browser.git`
 2. Open the project in Android Studio.
 3. Run the app on an emulator or a physical device.
 
